@@ -36,4 +36,7 @@ A simple React-based Movie Search site that lets users explore popular and top-r
 
 ## 🛠 Tech Stack
 
-![React](https://img.shields.io/badge/React-19.1-blue) ![React Router](https://img.shields.io/badge/React%20Router-v7-red) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v4-teal) ![TMDB API](https://img.shields.io/badge/TMDB-API-informational)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TMDB](https://img.shields.io/badge/TMDB-01D277?style=for-the-badge&logo=themoviedatabase&logoColor=white)
