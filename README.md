@@ -26,29 +26,14 @@ A simple React-based Movie Search site that lets users explore popular and top-r
 
 ### 2. Feature Enhancements
 
-- [ ] **Movie Detail Page:**
-  - [ ] Option A: Own page (`/movie/:id`) showing movie details.
-  - [ ] Option B: Redirect to IMDb page.
-- [ ] **Favorites Section:**
-  - [ ] Heart button to add/remove favorite movies.
-  - [ ] `/favorites` page displaying saved movies.
-- [ ] **Search Suggestions / Autocomplete:**
-  - [ ] Show suggestions as user types.
-  - [ ] Debounce API calls to avoid excessive requests.
-- [ ] **Toggle Search Mode:**
-  - [ ] Option to search by rating or relevance.
-
-### 3. Optional Polish
-
-- [ ] Loading skeletons while fetching movies.
-- [ ] Responsive design tweaks for mobile and desktop.
+- [ ] Movie Detail Page
+- [ ] Favorites Section
+- [ ] Search Suggestions
+- [ ] Toggle Search Mode
+- [ ] Search by rating or relevance.
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-- **React** for UI
-- **React Router** for page navigation
-- **Tailwind CSS** for styling
-- **External Movie API**
-- **LocalStorage** for saving favorites (planned)
+![React](https://img.shields.io/badge/React-19.1-blue) ![React Router](https://img.shields.io/badge/React%20Router-v7-red) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v4-teal) ![TMDB API](https://img.shields.io/badge/TMDB-API-informational)
